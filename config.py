@@ -14,15 +14,15 @@ API_HASH = getenv("API_HASH", "916a9424dd1e58ab7955001ccc0172b3")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 
 # ======================================================
-OWNER_ID = int(getenv("OWNER_ID", 7980630836))
-OWNER_USERNAME = getenv("OWNER_USERNAME", "Itzz_Istkhar")
-BOT_USERNAME = getenv("BOT_USERNAME", "Sukku_Music_Bot")
-BOT_NAME = getenv("BOT_NAME", "Sonali Music")
-ASSUSERNAME = getenv("ASSUSERNAME")
+OWNER_ID = int(getenv("OWNER_ID", 5748100919))
+OWNER_USERNAME = getenv("OWNER_USERNAME", "Hindustani_Ladka00")
+BOT_USERNAME = getenv("BOT_USERNAME", "AnyaX_Robot")
+BOT_NAME = getenv("BOT_NAME", "˹𝐀ɴʏᴀ ✘ 𝙼ᴜsɪᴄ˼ ♪")
+ASSUSERNAME = getenv("ASSUSERNAME","ll_ishuxd_ll")
 
 # ======================================================
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
-LOGGER_ID = int(getenv("LOGGER_ID", -1003565819974))
+LOGGER_ID = int(getenv("LOGGER_ID", -1003865547409))
 
 BASE_URL = getenv("API_URL", 'https://BabyAPI.Pro') 
 API_KEY = getenv('API_KEY', 'ADMINBABYX20F56755E70E0694DDCC844F5F1BB465') 
@@ -43,13 +43,13 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 # ======================================================
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/istu56/InflexMusic")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/piyushcodings/AnyaMusic")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # ======================================================
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/IamIstkhar")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/THUNDERDEVS")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/PiyushXCodes")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/AnyaXWorld")
 
 # ======================================================
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "1c21247d714244ddbb09925dac565aed")
@@ -65,16 +65,16 @@ STRING6 = getenv("STRING_SESSION6", None)
 STRING7 = getenv("STRING_SESSION7", None)
 
 # ======================================================
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/x5lytj.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://i.ibb.co/dJkrXQQd/x.jpg")
 PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/leaexg.jpg")
 
-PLAYLIST_IMG_URL = "https://files.catbox.moe/b0e4vk.jpg"
+PLAYLIST_IMG_URL = "https://i.ibb.co/VYdN4dxj/x.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/psya34.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/4dzp6n.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/4dzp6n.jpg"
-STREAM_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/4dzp6n.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/4dzp6n.jpg"
+TELEGRAM_AUDIO_URL = "https://i.ibb.co/DdxGHvt/x.jpg"
+TELEGRAM_VIDEO_URL = "https://i.ibb.co/Mxt6Tw95/x.jpg"
+STREAM_IMG_URL = "https://i.ibb.co/8gMnmCds/x.jpg"
+SOUNCLOUD_IMG_URL = "https://i.ibb.co/M5NmP2Tf/x.jpg"
+YOUTUBE_IMG_URL = "https://i.ibb.co/r2ym4czC/x.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/2y5o3g.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/2y5o3g.jpg"
 SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
