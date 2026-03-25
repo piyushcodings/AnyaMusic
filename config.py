@@ -16,13 +16,13 @@ BOT_TOKEN = getenv("BOT_TOKEN", None)
 # ======================================================
 OWNER_ID = int(getenv("OWNER_ID", 5748100919))
 OWNER_USERNAME = getenv("OWNER_USERNAME", "Hindustani_Ladka00")
-BOT_USERNAME = getenv("BOT_USERNAME", "AnyaX_Robot")
+BOT_USERNAME = getenv("BOT_USERNAME", "AnyaXMusicsbot")
 BOT_NAME = getenv("BOT_NAME", "˹𝐀ɴʏᴀ ✘ 𝙼ᴜsɪᴄ˼ ♪")
 ASSUSERNAME = getenv("ASSUSERNAME","ll_ishuxd_ll")
 
 # ======================================================
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
-LOGGER_ID = int(getenv("LOGGER_ID", -1003865547409))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002955462034))
 
 BASE_URL = getenv("API_URL", 'https://BabyAPI.Pro') 
 API_KEY = getenv('API_KEY', 'ADMINBABYX20F56755E70E0694DDCC844F5F1BB465') 
@@ -49,7 +49,7 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # ======================================================
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/PiyushXCodes")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/AnyaXWorld")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+6mT2_lvTzVQwODU1")
 
 # ======================================================
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "1c21247d714244ddbb09925dac565aed")
